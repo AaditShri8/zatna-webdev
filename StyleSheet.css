@@ -1,0 +1,42 @@
+img{
+    border: 10px dotted aquamarine;
+    width: 100%;
+}
+
+body{
+    font-family:"Comic Sans MS";
+    color:cornflowerblue;
+    background-color:coral;
+    font-size: 2vw;
+}
+    
+#SquirrelPicture {
+    float:right;
+    width:50%;
+}
+
+.navbar-default{
+    background-color:cyan;
+    color:antiquewhite;
+    font-size: 2vw;
+}
+
+
+#1{
+    float:right;
+}
+
+#InfoPandaPicture{
+    width:50%;
+    float:right;
+}
+
+#SquirrelWaterSkiing{
+    float:right;
+    width: 50%;
+}
+
+#GuitarPanda{
+    float:left;
+    width: 50%;
+}
